@@ -5,5 +5,9 @@ class Cat
  def meow
    "meow!"
  end
+ maru = Cat.new 
+ maru.name
+ maru.meow
+ 
  end
  
